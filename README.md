@@ -2,7 +2,7 @@
 
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
-## Student Team
+## mohamed bouhmid
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
 
